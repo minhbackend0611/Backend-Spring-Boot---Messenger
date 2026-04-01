@@ -1,0 +1,11 @@
+# Build
+target/
+
+# Env
+.env
+
+# Config chứa secret
+src/main/resources/application.properties
+
+# Logs
+*.log
